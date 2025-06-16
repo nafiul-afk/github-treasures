@@ -1,3 +1,16 @@
+title: GitHub Treasures
+description: Curated best GitHub repositories
+theme: null    # disable default theme because we'll use a gem-based theme
 
-theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-remote-theme
 
+remote_theme: pmarsceill/just-the-docs
+
+just_the_docs:
+  color_mode: dark           # default dark mode
+  color_mode_switch: true    # show toggle switch
