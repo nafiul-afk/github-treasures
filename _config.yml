@@ -1,0 +1,7 @@
+title: GitHub Treasures
+description: Curated best GitHub repos
+theme: just-the-docs
+
+just_the_docs:
+  color_mode: dark
+  color_mode_switch: true
