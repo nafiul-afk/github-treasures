@@ -23,6 +23,7 @@ A curated collection of the most **valuable**, **useful**, and **innovative** re
 | [Free-APIs](https://github.com/Free-APIs/Free-APIs.github.io) | A collection of free APIs for new and experienced developers, derived from Public APIs. | 327k |
 | [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. | 306k |
 | [awesome-python](https://github.com/vinta/awesome-python) | 	An opinionated list of awesome Python frameworks, libraries, software and resources. | 247k |
+| [UniGetUI](https://github.com/marticliment/UniGetUI) | UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers | 16.6k |
 | [winlator](https://github.com/brunodev85/winlator) | Winlator is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64. | 13k |
 
 
