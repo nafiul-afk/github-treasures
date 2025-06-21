@@ -54,5 +54,3 @@ Let me know if you want this tailored to your personal journey or goals (e.g., a
 Found a treasure I missed? Feel free to [open an issue](https://github.com/nafiul-afk/github-treasures/issues) or submit a PR.
 
 ---
-
-Let me know if you'd like this turned into a real file, or want help organizing the first few repos into categories!
