@@ -25,8 +25,7 @@ A curated collection of the most **valuable**, **useful**, and **innovative** re
 | [awesome-python](https://github.com/vinta/awesome-python) | 	An opinionated list of awesome Python frameworks, libraries, software and resources. | 247k |
 | [UniGetUI](https://github.com/marticliment/UniGetUI) | UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers | 16.6k |
 | [winlator](https://github.com/brunodev85/winlator) | Winlator is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64. | 13k |
-
-
+| [SidebarDiagnostics](https://github.com/ArcadeRenegade/SidebarDiagnostics) | A simple sidebar for Windows desktop that displays hardware diagnostic information. | 2.5k |
 
 ---
 
