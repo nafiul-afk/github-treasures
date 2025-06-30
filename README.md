@@ -47,8 +47,6 @@ Whether you're a beginner or a seasoned engineer, this repo is your **shortcut t
 
 ---
 
-Let me know if you want this tailored to your personal journey or goals (e.g., as a data science student or open-source enthusiast).
-
 ## 📬 Contribute
 
 Found a treasure I missed? Feel free to [open an issue](https://github.com/nafiul-afk/github-treasures/issues) or submit a PR.
