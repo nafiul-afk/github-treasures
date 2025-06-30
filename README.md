@@ -24,6 +24,7 @@ A curated collection of the most **valuable**, **useful**, and **innovative** re
 | [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. | 306k |
 | [awesome-python](https://github.com/vinta/awesome-python) | 	An opinionated list of awesome Python frameworks, libraries, software and resources. | 247k |
 | [UniGetUI](https://github.com/marticliment/UniGetUI) | UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers | 16.6k |
+| [repomix](https://github.com/yamadashy/repomix) | Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more. | 17.3k |
 | [winlator](https://github.com/brunodev85/winlator) | Winlator is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64. | 13k |
 | [SidebarDiagnostics](https://github.com/ArcadeRenegade/SidebarDiagnostics) | A simple sidebar for Windows desktop that displays hardware diagnostic information. | 2.5k |
 
