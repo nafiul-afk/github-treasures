@@ -18,6 +18,7 @@ A curated collection of the most **valuable**, **useful**, and **innovative** re
 
 | Name | Description | ⭐ Stars |
 |------|-------------|---------|
+| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. | 422k |
 | [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | List of Free Learning Resources In Many Languages |  359k |
 | [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Community driven roadmaps, articles and resources for developers. |  327k |
 | [Free-APIs](https://github.com/Free-APIs/Free-APIs.github.io) | A collection of free APIs for new and experienced developers, derived from Public APIs. | 327k |
