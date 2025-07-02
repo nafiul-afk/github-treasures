@@ -29,6 +29,7 @@ A curated collection of the most **valuable**, **useful**, and **innovative** re
 | [repomix](https://github.com/yamadashy/repomix) | Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more. | 17.3k |
 | [winlator](https://github.com/brunodev85/winlator) | Winlator is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64. | 13k |
 | [SidebarDiagnostics](https://github.com/ArcadeRenegade/SidebarDiagnostics) | A simple sidebar for Windows desktop that displays hardware diagnostic information. | 2.5k |
+| [toutatis](https://github.com/megadose/toutatis) | Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more | 2.5k |
 | [CyberSources](https://github.com/bst04/CyberSources) | A curated list of cybersecurity tools and resources. | 1.5K |
 
 ---
