@@ -33,6 +33,7 @@ A curated collection of the most **valuable**, **useful**, and **innovative** re
 | [VideoLingo](https://github.com/Huanshere/VideoLingo) | VideoLingo is an all-in-one video translation, localization, and dubbing tool aimed at generating Netflix-quality subtitles. It eliminates stiff machine translations and multi-line subtitles while adding high-quality dubbing, enabling global knowledge sharing across language barriers. | 13.5k |
 | [winlator](https://github.com/brunodev85/winlator) | Winlator is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64. | 13k |
 | [Seelen UI](https://github.com/eythaann/Seelen-UI) | The Fully Customizable Desktop Environment for Windows 10/11. | 10.5k |
+| [Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) | A list of alternatives for Adobe software | 7.8k |
 | [linutil](https://github.com/ChrisTitusTech/linutil) | Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks. | 3.8k |
 | [SidebarDiagnostics](https://github.com/ArcadeRenegade/SidebarDiagnostics) | A simple sidebar for Windows desktop that displays hardware diagnostic information. | 2.5k |
 | [toutatis](https://github.com/megadose/toutatis) | Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more | 2.5k |
